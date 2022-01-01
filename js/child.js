@@ -6,31 +6,6 @@ export default Tiny({
     Descendant
   },
 
-  // state: {
-  //   count: 5
-  // },
-
-  // afterMount () {
-  //   this.emit('child-count', {
-  //     count: this.state.count
-  //   })
-  // },
-
-  // increaseCount () {
-  //   this.setState({
-  //     count: this.state.count + 1
-  //   })
-  //   this.emit('child-count', {
-  //     count: this.state.count
-  //   })
-  // },
-
-  // increaseParentCount (event) {
-  //   this.emit('increase-parent-count', {
-  //     amount: 1
-  //   })
-  // },
-
   template () {
     return `
       <div class='component child-component flow'>

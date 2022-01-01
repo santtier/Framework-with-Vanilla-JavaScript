@@ -1,6 +1,5 @@
 import Tiny from './Tiny/tiny.js'
 import Child from './child.js'
-// import totalCount from './total-count.js'
 
 Tiny({
   selector: 'main',
@@ -12,19 +11,6 @@ Tiny({
       count: this.state.count + 1
     })
   },
-
-  // increaseSelfCount (event) {
-  //   const amount = event.detail.amount
-  //   this.setState({
-  //     count: this.state.count + amount
-  //   })
-  // },
-
-  // setChildCount (event) {
-  //   this.setState({
-  //     childCount: event.detail.count
-  //   })
-  // },
 
   template () {
     return `
