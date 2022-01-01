@@ -2,7 +2,6 @@
 ![](images/tiny.gif)
 
 This project is about building a Framework and a Counter App together at the same time to understand the principles behind a Framework and to build something complex with Vanilla JS 
-It's a component that let user to choose any date from the datepicker.
 ## General Info
 In this project I applied the following things: 
 - I allow users to render their components onto the DOM. This means users give us the HTML and I render it into the DOM.
