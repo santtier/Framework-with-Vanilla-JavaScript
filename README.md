@@ -24,7 +24,7 @@ A list of technologies used within the project:
 ## Installation
 A little intro about the installation. 
 ```
-$ git@github.com:santtier/Framework-with-Vanilla-JavaScript.git
+$ git clone git@github.com:santtier/Framework-with-Vanilla-JavaScript.git
 $ cd Framework-with-Vanilla-JavaScript
 ```
 
